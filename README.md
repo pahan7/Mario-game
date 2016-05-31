@@ -1,2 +1,2 @@
 # Mario-game
-Video game development final project
+Video game development class final project
